@@ -1,0 +1,2 @@
+# atvMeuPrimeiroWebApp
+ "Vamos fazer nossa primeira aplicação “móvel”?   1.Defina uma problema e uma proposta de solução digital via um webapp; 2.Selecione um template que converse com sua proposta de solução: •https://html5up.net/ •https://startbootstrap.com/themes?showPro=false •https://bootstrapmade.com/ •https://w3layouts.com/ 3.Adapte o template para a sua proposta de solução; 4.Suba o projeto para o github (https://github.com/);"
